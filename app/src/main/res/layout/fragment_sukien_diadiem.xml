@@ -40,7 +40,7 @@
                     android:textColor="#fff"
                     android:textAllCaps="true"
                     android:textStyle="bold"
-                    android:text="Xem thêm sự kiện."
+                    android:text="Núi rừng."
                     android:layout_height="wrap_content" />
 
                 <ImageView
@@ -48,7 +48,7 @@
                     android:layout_height="40dp"
                     android:layout_gravity="end|center"
 
-                    android:src="@drawable/events" />
+                    android:src="@drawable/rung" />
 
 
             </LinearLayout>
@@ -82,14 +82,14 @@
                 android:textColor="#fff"
                 android:textAllCaps="true"
                 android:textStyle="bold"
-                android:text="Xem thêm địa điểm."
+                android:text="Biển cả."
                 android:layout_height="wrap_content" />
 
             <ImageView
                 android:layout_width="40dp"
                 android:layout_height="40dp"
                 android:layout_gravity="end|center"
-                android:src="@drawable/place2" />
+                android:src="@drawable/bien" />
 
             </LinearLayout>
 
